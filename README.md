@@ -15,7 +15,7 @@ Steps ([source](https://forums.mydigitallife.net/threads/info-discussion-downloa
 1. Download the Consumer ISO.rar from the [SVF repo](https://cloud.mail.ru/public/2fYm/2bzdHD4X2/)
 3. Download the Consumer EN to XX .svf file in the language of your choosing from the [SVF repo](https://cloud.mail.ru/public/2fYm/2bzdHD4X2/). 
 2. Download the Consumer to LTSC .svf file in the language of your choice (e.g. `en_us`) from the [SVF repo](https://cloud.mail.ru/public/2fYm/2bzdHD4X2/)
-3. [Download](https://www.softpedia.com/get/System/Back-Up-and-Recovery/SVF-eXtractor.shtml) svfx.exe
+3. Download [SVF eXtractor](https://www.softpedia.com/get/System/Back-Up-and-Recovery/SVF-eXtractor.shtml)
 4. Extract the ISO from the RAR
 5. Make a new folder and put the extracted ISO, your EN to XX .svf file and svfx.exe in it
 6. Run svfx.exe inside that folder and an ISO of your desired language will be created
