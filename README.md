@@ -6,7 +6,7 @@ This document is for educational and testing purposes only. I recommend you buy 
 
 
 ## Guides:
-### Get a clean Enterprise LTSC ISO (version .316) (using SVF repository):
+#### Get a clean Enterprise LTSC ISO (version .316) (using SVF repository):
 
 **Skip steps 2, 6 and 7 if you want to use `en_US` as your language.**
 
@@ -22,7 +22,7 @@ Steps ([source](https://forums.mydigitallife.net/threads/info-discussion-downloa
 8. Make a new folder and put the new ISO, the Consumer to LTSC .svf file and svfx.exe in it
 9. Run svfx.exe inside that folder and the LTSC ISO will be created
 
-Upgrade from Windows 10 Home to Pro (N) for Workstations:
+#### Upgrade from Windows 10 Home to Pro (N) for Workstations:
 
 If you are already on Windows 10 Pro and not Home, you can skip steps 1-4.
 
