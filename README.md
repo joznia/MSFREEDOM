@@ -65,7 +65,7 @@ Steps:
 
 [Additional Enterprise LTSC downloads](https://pastebin.com/raw/4E7xLfS5)
 
-List of generic keys for Windows:
+### List of generic keys for Windows:
 
 [WindowsClub list](https://www.thewindowsclub.com/generic-windows-10-product-keys-to-install-windows-10-enterprise)
 
