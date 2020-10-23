@@ -6,7 +6,7 @@ This document is for educational and testing purposes only. I recommend you buy 
 
 
 ## Guides:
-Get a clean Enterprise LTSC ISO v316 (using SVF repository):
+Get a clean Enterprise LTSC ISO (version .316) (using SVF repository):
 
 **Skip steps 2, 5 and 6 if you want to use en_US as your language.**
 
