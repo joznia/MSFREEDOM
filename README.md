@@ -63,7 +63,9 @@ Steps:
 
 [KMSpico MDL thread](https://forums.mydigitallife.net/threads/kmspico-official-thread.65739/)
 
-[Additional Enterprise LTSC downloads](https://pastebin.com/raw/4E7xLfS5)
+[Additional Enterprise LTSC downloads](https://forums.mydigitallife.net/threads/info-discussion-downloads-windows-10-1809-final-b-17763-xxx-pc-rs5.77945/page-51#post-1467631)
+
+[(Google Drive) en_US LTSC x64 ISO, can be used with SVFs](https://drive.google.com/file/d/1_hpyK3usbR2oRsjNZ6NoPNqSGAPpSxgd/view)
 
 ### List of generic keys for Windows:
 
