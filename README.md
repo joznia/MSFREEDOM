@@ -34,7 +34,7 @@ Steps:
    `slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX`
    
    For Windows N edition, instead run:
-   `lmgr /ipk MH37W-N47XK-V7XM9-C7227-GCQG9`
+   `slmgr /ipk MH37W-N47XK-V7XM9-C7227-GCQG9`
 
 2. Reboot
 3. Run Windows Update
