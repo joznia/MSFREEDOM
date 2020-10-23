@@ -1,0 +1,9 @@
+Credits:
+Microsoft, for Windows
+
+Heldigard, for KMSpico
+
+GezoeSloog and Enthousiast, for the Windows 10 LTSC SVF repos
+
+GezoeSloog, for SVF eXtractor
+
