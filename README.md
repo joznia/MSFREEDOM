@@ -15,7 +15,7 @@ Steps ([source](https://forums.mydigitallife.net/threads/info-discussion-downloa
 1. Download the consumer ISO.rar from the [SVF repo](https://cloud.mail.ru/public/2fYm/2bzdHD4X2/)
 3. Download the consumer to XX .svf file in the language of your choosing from the [SVF repo](https://cloud.mail.ru/public/2fYm/2bzdHD4X2/). **Skip this step if you want to use en_US as your language.**
 2. Download the consumer to LTSC .svf file in the language of your choice (e.g [en_us]) from the [SVF repo](https://cloud.mail.ru/public/2fYm/2bzdHD4X2/)
-3. [Download](https://www.softpedia.com/dyn-postdownload.php/375e42e253d807b5043379615ae0616e/5f92790d/3dcd4/4/1) svfx.exe
+3. [Download](https://www.softpedia.com/get/System/Back-Up-and-Recovery/SVF-eXtractor.shtml) svfx.exe
 4. Extract the ISO from the RAR
 5. Make a new folder and put the extracted ISO, the .svf file and svfx.exe in it
 6. Run svfx.exe and the LTSC ISO will be created
