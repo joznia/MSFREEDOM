@@ -19,57 +19,6 @@ Steps:
 5. Temporarily disable your AV and/or whitelist KMSpico (see its README for a list of files to whitelist); KMSpico and other activation tools are detected as false positives and do not contain any malicious code
 6. Run KMSELDI.exe and click the massive red button
 
-### Upgrade from Windows 10 Home to Pro using Windows Settings
-
-Steps:
-
-1. Open Windows Settings --> Update & Security --> Activation
-2. Click on 'Change Product Key'
-3. Enter VK7JG-NPHTM-C97JM-9MPGT-3V66T
-4. The updater will upgrade Windows for you and automatically reboot
-5. Activate Windows normally, with a method of your choosing 
-
-### Upgrade from Windows 10 Home to Pro using `slmgr`
-
-Steps: 
-
-1. Open Command Prompt as administrator and run:
-   `slmgr /ipk VK7JG-NPHTM-C97JM-9MPGT-3V66T`
-2. Reboot, run Windows Update, and reboot again
-3. Activate Windows normally, with a method of your choosing 
-
-### Upgrade from Windows 10 Home to Pro for Workstations using `slmgr`
-
-If you are already on Windows 10 Pro and not Home, you can skip steps 1 and 2.
-
-Steps:
-
-0. This guide uses the Semi-Annual Channel KMS Client generic keys. For other keys, refer to Generic_Keys.txt at the root of this repository.
-1. Open Command Prompt as administrator and run:
-   `slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX`
-2. Reboot, run Windows Update, and reboot again
-3. Open Command Prompt as administrator and run:
-   `slmgr /ipk NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J`
-4. Reboot, run Windows Update, and reboot again
-5. Activate Windows normally, with a method of your choosing 
-
-### Upgrade from Windows 10 Home to Pro for Workstations using `slmgr`
-
-If you are already on Windows 10 Pro and not Home, you can skip steps 1 and 2.
-
-Steps:
-
-0. This guide uses the Semi-Annual Channel KMS Client generic keys. For other keys, refer to Generic_Keys.txt at the root of this repository.
-1. Open Windows Settings --> Update & Security --> Activation
-2. Click on 'Change Product Key'
-3. Enter W269N-WFGWX-YVC9B-4J6C9-T83GX
-4. Reboot, run Windows Update, and reboot again
-5. Open Windows Settings --> Update & Security --> Activation
-6. Click on 'Change Product Key'
-7. Enter NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J
-8. Reboot, run Windows Update, and reboot again
-9. Activate Windows normally, with a method of your choosing 
-
 ### Windows 10 Enterprise LTSC
 
 **Skip steps 2, 6 and 7 if you want to use `en_US` as your language.**
@@ -109,6 +58,42 @@ Follow these steps ([source](https://forums.mydigitallife.net/threads/info-discu
 [Offical Microsoft list](https://docs.microsoft.com/en-us/windows-server/get-started/kmsclientkeys)
 
 [TenForums list](https://www.tenforums.com/tutorials/95922-generic-product-keys-install-windows-10-editions.html) (very complete)
+
+### Not working
+
+#### These are methods I made that turned out not to work, but I'm keeping them here so I can update and possibly add them back in the future.
+
+#### Upgrade from Windows 10 Home to Pro using Windows Settings
+
+Steps:
+
+1. Open Windows Settings --> Update & Security --> Activation
+2. Click on 'Change Product Key'
+3. Enter VK7JG-NPHTM-C97JM-9MPGT-3V66T
+4. The updater will upgrade Windows for you and automatically reboot
+5. Activate Windows normally, with a method of your choosing 
+
+#### Upgrade from Windows 10 Home to Pro using `slmgr`
+
+Steps: 
+
+1. Open Command Prompt as administrator and run:
+   `slmgr /ipk VK7JG-NPHTM-C97JM-9MPGT-3V66T`
+2. Reboot, run Windows Update, and reboot again
+3. Activate Windows normally, with a method of your choosing 
+
+#### Upgrade from Windows 10 Home to Pro for Workstations using Windows Settings
+
+If you are already on Windows 10 Pro and not Home, you can skip steps 1 and 2.
+
+Steps:
+
+0. Ensure Windows is activated
+1. Open Windows Settings --> Update & Security --> Activation
+2. Click on 'Change Product Key'
+3. Enter DXG7C-N36C4-C4HTG-X4T3X-2YV77
+4. Reboot, run Windows Update, and reboot again
+5. Activate Windows normally, with a method of your choosing 
 
 ### Credits
 
