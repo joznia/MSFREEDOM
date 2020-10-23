@@ -5,7 +5,7 @@ Collection of guides to get Windows for free
 This document is for educational and testing purposes only. I recommend you buy Windows and other Microsoft products genuinely and legally.
 
 
-## Guides:
+## Guides
 ### Get a clean Enterprise LTSC ISO (version .316) (using SVF repository):
 
 **Skip steps 2, 6 and 7 if you want to use `en_US` as your language.**
