@@ -7,6 +7,7 @@ This document is for educational and testing purposes only. I recommend you buy 
 Get a clean Enterprise LTSC ISO v316 (using SVF repo):
 
 Steps:
+
 0. Here is the SVF repo for reference: https://bit.ly/3kiyCLD 
 1. Download the consumer ISO: https://bit.ly/35quKBZ
 2. Download the LTSC .svf: https://bit.ly/37A56h0
@@ -36,6 +37,8 @@ Steps (these are generic keys, not activation keys, they are used for identifyin
 9. run KMSpico
 
 Additional stuff:
+
+MDL thread for Enterprise LTSC: https://forums.mydigitallife.net/threads/discussion-windows-10-enterprise-n-ltsc-2019.76325/
 
 Techbench dump (download clean Windows ISOs): https://tb.32767.ga/
 
