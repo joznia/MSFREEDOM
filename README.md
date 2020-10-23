@@ -60,6 +60,8 @@ Additional links:
 
 [KMSpico torrent](https://pastebin.com/raw/vw4CX1ak)
 
+[Additional Enterprise LTSC downloads](https://pastebin.com/raw/4E7xLfS5)
+
 List of generic keys for Windows:
 
 [WindowsClub list](https://www.thewindowsclub.com/generic-windows-10-product-keys-to-install-windows-10-enterprise)
@@ -68,4 +70,4 @@ List of generic keys for Windows:
 
 [TenForums list](https://www.tenforums.com/tutorials/95922-generic-product-keys-install-windows-10-editions.html) (very complete)
 
-[Additional Enterprise LTSC downloads](https://pastebin.com/raw/4E7xLfS5)
+
