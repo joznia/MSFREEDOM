@@ -67,3 +67,5 @@ List of generic keys for Windows:
 [Offical Microsoft list](https://docs.microsoft.com/en-us/windows-server/get-started/kmsclientkeys)
 
 [TenForums list](https://www.tenforums.com/tutorials/95922-generic-product-keys-install-windows-10-editions.html) (very complete)
+
+[Additional Enterprise LTSC downloads](https://pastebin.com/raw/4E7xLfS5)
