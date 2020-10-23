@@ -73,4 +73,23 @@ Steps:
 
 [TenForums list](https://www.tenforums.com/tutorials/95922-generic-product-keys-install-windows-10-editions.html) (very complete)
 
+### Credits
+Microsoft, for Windows
+
+Heldigard, for KMSpico
+
+GezoeSloog and Enthousiast, for the Windows 10 LTSC SVF repos
+
+GezoeSloog for SVF eXtractor and loads of other things
+
+LostED for tons of SVF-related stuff
+
+TechBench for providing a clean way to download legitimate ISOs
+
+abbodi1406 for KMS_VL_ALL
+
+WinDev for providing an easy way to download Windows Server, plus other things
+
+Everyone at MyDigitalLife and anyone I possibly forgot
+
 
