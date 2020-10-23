@@ -17,19 +17,28 @@ Steps:
 6. Run svfx.exe and the LTSC ISO will be created
 
 
-Upgrade from Windows 10 Home to Pro for Workstations:
+Upgrade from Windows 10 Home to Pro (N) for Workstations:
 
-Steps (these are generic keys, not activation keys, they are used for identifying what Windows edition you have):
+If you are already on Windows 10 Pro and not Home, you can skip steps 1-4.
 
+Steps:
+
+0. This guide uses the Semi-Annual Channel KMS Client generic keys. For other keys, refer to Generic_Keys.txt at the root of this repository.
 1. Admin command prompt:
-   slmgr /ipk 2B87N-8KFHP-DKV6R-Y2C8J-PKCKT
+   slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
+   
+   For Windows N edition:
+   slmgr /ipk MH37W-N47XK-V7XM9-C7227-GCQG9
 
 2. Reboot
 3. Run Windows Update
 4. Reboot
 
 5. Admin command prompt:
-   slmgr /ipk WYPNQ-8C467-V2W6J-TX4WX-WT2RQ
+   slmgr /ipk NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J
+   
+   For Windows N edition: 
+   slmgr /ipk 9FNHH-K3HBT-3W4TD-6383H-6XYWF
 
 6. reboot
 7. run Windows Update
