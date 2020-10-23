@@ -52,7 +52,7 @@ Steps:
 9. Activate Windows normally, with a method of your choosing
 10. Done
 
-Additional links:
+### Additional links:
 
 [MDL thread for Enterprise LTSC](https://forums.mydigitallife.net/threads/discussion-windows-10-enterprise-n-ltsc-2019.76325/)
 
