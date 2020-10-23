@@ -30,21 +30,21 @@ If you are already on Windows 10 Pro and not Home, you can skip steps 1-4.
 Steps:
 
 0. This guide uses the Semi-Annual Channel KMS Client generic keys. For other keys, refer to Generic_Keys.txt at the root of this repository.
-1. Admin command prompt:
-   slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
+1. Run in Command Prompt as administrator:
+   `slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX`
    
-   For Windows N edition:
-   slmgr /ipk MH37W-N47XK-V7XM9-C7227-GCQG9
+   For Windows N edition, instead run:
+   `lmgr /ipk MH37W-N47XK-V7XM9-C7227-GCQG9`
 
 2. Reboot
 3. Run Windows Update
 4. Reboot
 
-5. Admin command prompt:
-   slmgr /ipk NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J
+5. Run in Command Prompt as administrator:
+   `slmgr /ipk NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J`
    
-   For Windows N edition: 
-   slmgr /ipk 9FNHH-K3HBT-3W4TD-6383H-6XYWF
+   For Windows N edition, instead run: 
+   `slmgr /ipk 9FNHH-K3HBT-3W4TD-6383H-6XYWF`
 
 6. Reboot
 7. Run Windows Update
