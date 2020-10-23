@@ -2,15 +2,78 @@
 Collection of guides to get Windows for free
 
 ## Disclaimer
-This document is for educational and testing purposes only. I recommend you buy Windows and other Microsoft products genuinely and legally.
-
+This document is for educational and testing purposes only. I recommend you buy Windows and other Microsoft products genuinely, legally and legitimately.
 
 ## Guides
-### Get a clean Enterprise LTSC ISO (version .316) (using SVF repository):
+
+### Windows 10 (Basic Install)
+
+Steps: 
+
+1. Go to [TechBench](https://tb.32767.ga/) and download whatever build of Windows 10 you desire
+1a. To download the latest version of Windows 10 from TechBench, simply click on Windows 10 > Windows 10 and scroll to the bottom of the page. The latest version (20H2 at the time of writing) should be near the bottom of the page
+2. Write the ISO to a disk using a tool like [Rufus](https://rufus.ie/) and boot into it
+3. Install Windows as normal
+4. Download [KMSpico](https://forums.mydigitallife.net/threads/kmspico-official-thread.65739/), a very popular activation tool for Windows
+5. Temporarily disable your AV and/or whitelist KMSpico (see its README for a list of files to whitelist); KMSpico and other activation tools are detected as false positives and do not contain any malicious code
+6. Run KMSELDI.exe and click the massive red button
+
+### Upgrade from Windows 10 Home to Pro using Windows Settings
+
+Steps:
+
+1. Open Windows Settings --> Update & Security --> Activation
+2. Click on 'Change Product Key'
+3. Enter VK7JG-NPHTM-C97JM-9MPGT-3V66T
+4. The updater will upgrade Windows for you and automatically reboot
+5. Activate Windows normally, with a method of your choosing 
+
+### Upgrade from Windows 10 Home to Pro using `slmgr`
+
+Steps: 
+
+1. Open Command Prompt as administrator and run:
+   `slmgr /ipk VK7JG-NPHTM-C97JM-9MPGT-3V66T`
+2. Reboot, run Windows Update, and reboot again
+3. Activate Windows normally, with a method of your choosing 
+
+### Upgrade from Windows 10 Home to Pro for Workstations using `slmgr`
+
+If you are already on Windows 10 Pro and not Home, you can skip steps 1 and 2.
+
+Steps:
+
+0. This guide uses the Semi-Annual Channel KMS Client generic keys. For other keys, refer to Generic_Keys.txt at the root of this repository.
+1. Open Command Prompt as administrator and run:
+   `slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX`
+2. Reboot, run Windows Update, and reboot again
+3. Open Command Prompt as administrator and run:
+   `slmgr /ipk NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J`
+4. Reboot, run Windows Update, and reboot again
+5. Activate Windows normally, with a method of your choosing 
+
+### Upgrade from Windows 10 Home to Pro for Workstations using `slmgr`
+
+If you are already on Windows 10 Pro and not Home, you can skip steps 1 and 2.
+
+Steps:
+
+0. This guide uses the Semi-Annual Channel KMS Client generic keys. For other keys, refer to Generic_Keys.txt at the root of this repository.
+1. Open Windows Settings --> Update & Security --> Activation
+2. Click on 'Change Product Key'
+3. Enter W269N-WFGWX-YVC9B-4J6C9-T83GX
+4. Reboot, run Windows Update, and reboot again
+5. Open Windows Settings --> Update & Security --> Activation
+6. Click on 'Change Product Key'
+7. Enter NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J
+8. Reboot, run Windows Update, and reboot again
+9. Activate Windows normally, with a method of your choosing 
+
+### Windows 10 Enterprise LTSC
 
 **Skip steps 2, 6 and 7 if you want to use `en_US` as your language.**
 
-Steps ([source](https://forums.mydigitallife.net/threads/info-discussion-downloads-windows-10-1809-final-b-17763-xxx-pc-rs5.77945/page-312#post-1601664)):
+Follow these steps ([source](https://forums.mydigitallife.net/threads/info-discussion-downloads-windows-10-1809-final-b-17763-xxx-pc-rs5.77945/page-312#post-1601664)) to create a clean ISO of Enterprise LTSC:
 
 1. Download the Consumer ISO.rar from the [SVF repo](https://cloud.mail.ru/public/2fYm/2bzdHD4X2/)
 2. Download the Consumer EN to XX .svf file in the language of your choosing from the [SVF repo](https://cloud.mail.ru/public/2fYm/2bzdHD4X2/). 
@@ -22,36 +85,7 @@ Steps ([source](https://forums.mydigitallife.net/threads/info-discussion-downloa
 8. Make a new folder and put the new ISO, the Consumer to LTSC .svf file and svfx.exe in it
 9. Run svfx.exe inside that folder and the LTSC ISO will be created
 
-### Upgrade from Windows 10 Home to Pro (N) for Workstations:
-
-If you are already on Windows 10 Pro and not Home, you can skip steps 1-4.
-
-Steps:
-
-0. This guide uses the Semi-Annual Channel KMS Client generic keys. For other keys, refer to Generic_Keys.txt at the root of this repository.
-1. Run in Command Prompt as administrator:
-   `slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX`
-   
-   For Windows N edition, instead run:
-   `slmgr /ipk MH37W-N47XK-V7XM9-C7227-GCQG9`
-
-2. Reboot
-3. Run Windows Update
-4. Reboot
-
-5. Run in Command Prompt as administrator:
-   `slmgr /ipk NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J`
-   
-   For Windows N edition, instead run: 
-   `slmgr /ipk 9FNHH-K3HBT-3W4TD-6383H-6XYWF`
-
-6. Reboot
-7. Run Windows Update
-8. Reboot
-9. Activate Windows normally, with a method of your choosing
-10. Done
-
-### Additional links:
+### Additional links
 
 [Enterprise LTSC MDL thread](https://forums.mydigitallife.net/threads/discussion-windows-10-enterprise-n-ltsc-2019.76325/)
 
@@ -67,7 +101,7 @@ Steps:
 
 [(Google Drive) en_US LTSC x64 ISO, can be used with SVFs](https://drive.google.com/file/d/1_hpyK3usbR2oRsjNZ6NoPNqSGAPpSxgd/view)
 
-### List of generic keys for Windows:
+### List of generic keys for Windows
 
 [WindowsClub list](https://www.thewindowsclub.com/generic-windows-10-product-keys-to-install-windows-10-enterprise)
 
@@ -76,6 +110,7 @@ Steps:
 [TenForums list](https://www.tenforums.com/tutorials/95922-generic-product-keys-install-windows-10-editions.html) (very complete)
 
 ### Credits
+
 Microsoft, for Windows
 
 Heldigard, for KMSpico
