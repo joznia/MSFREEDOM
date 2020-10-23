@@ -58,7 +58,7 @@ Additional links:
 
 [Techbench dump](https://tb.32767.ga/) (download clean Windows ISOs)
 
-[KMSpico torrent](http://mgnet.me/eoTE4E0)
+[KMSpico torrent](https://pastebin.com/raw/vw4CX1ak)
 
 List of generic keys for Windows:
 
