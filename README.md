@@ -54,11 +54,15 @@ Steps:
 
 ### Additional links:
 
-[MDL thread for Enterprise LTSC](https://forums.mydigitallife.net/threads/discussion-windows-10-enterprise-n-ltsc-2019.76325/)
+[Enterprise LTSC MDL thread](https://forums.mydigitallife.net/threads/discussion-windows-10-enterprise-n-ltsc-2019.76325/)
+
+[Windows Server MDL thread](https://forums.mydigitallife.net/threads/the-windows-server-repository.49120/)
 
 [Techbench dump](https://tb.32767.ga/) (download clean Windows ISOs)
 
-[KMSpico torrent](https://pastebin.com/raw/vw4CX1ak)
+[KMS_VL_ALL MDL thread](https://forums.mydigitallife.net/threads/kms_vl_all-smart-activation-script.79535/)
+
+[KMSpico MDL thread](https://forums.mydigitallife.net/threads/kmspico-official-thread.65739/)
 
 [Additional Enterprise LTSC downloads](https://pastebin.com/raw/4E7xLfS5)
 
