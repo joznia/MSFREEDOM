@@ -1,9 +1,14 @@
-Credits:
+Credits to:
 Microsoft, for Windows
 
 Heldigard, for KMSpico
 
 GezoeSloog and Enthousiast, for the Windows 10 LTSC SVF repos
 
-GezoeSloog, for SVF eXtractor
+GezoeSloog for SVF eXtractor and loads of other things
 
+LostED for tons of SVF-related stuff
+
+TechBench for providing a clean way to download legitimate ISOs
+
+Everyone at MyDigitalLife and anyone I possibly forgot
