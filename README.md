@@ -6,14 +6,14 @@ This document is for educational and testing purposes only. I recommend you buy 
 
 
 ### Guides:
-Get a clean Enterprise LTSC ISO v316 (using SVF repo):
-
+Get a clean Enterprise LTSC ISO v316 (using SVF repository):
+SVF repo: https://bit.ly/3kiyCLD
 Steps:
 
-0. Here is the SVF repo for reference: https://bit.ly/3kiyCLD 
-1. Download the consumer ISO: https://bit.ly/35quKBZ
-2. Download the LTSC .svf: https://bit.ly/37A56h0
-3. Download svfx.exe: https://bit.ly/3jnffQj
+0. Here is the SVF repo for reference:  
+1. Download the consumer ISO.rar from the SVF repo
+2. Download the consumer to LTSC .svf file in the locale of your choice (e.g [en_us]) from the SVF repo
+3. Download svfx.exe: https://bit.ly/3m7Qut4
 4. Extract the ISO from the RAR
 5. Make a new folder and put the extracted ISO, the .svf file and svfx.exe in it
 6. Run svfx.exe and the LTSC ISO will be created
@@ -45,7 +45,8 @@ Steps:
 6. reboot
 7. run Windows Update
 8. reboot
-9. run KMSpico
+9. activate Windows normally
+10. done
 
 Additional stuff:
 
