@@ -8,18 +8,20 @@ This document is for educational and testing purposes only. I recommend you buy 
 ## Guides:
 Get a clean Enterprise LTSC ISO v316 (using SVF repository):
 
-
+**Skip steps 2, 5 and 6 if you want to use en_US as your language.**
 
 Steps ([source](https://forums.mydigitallife.net/threads/info-discussion-downloads-windows-10-1809-final-b-17763-xxx-pc-rs5.77945/page-312#post-1601664)):
 
-1. Download the consumer ISO.rar from the [SVF repo](https://cloud.mail.ru/public/2fYm/2bzdHD4X2/)
-3. Download the consumer to XX .svf file in the language of your choosing from the [SVF repo](https://cloud.mail.ru/public/2fYm/2bzdHD4X2/). **Skip this step if you want to use en_US as your language.**
-2. Download the consumer to LTSC .svf file in the language of your choice (e.g [en_us]) from the [SVF repo](https://cloud.mail.ru/public/2fYm/2bzdHD4X2/)
+1. Download the Consumer ISO.rar from the [SVF repo](https://cloud.mail.ru/public/2fYm/2bzdHD4X2/)
+3. Download the Consumer EN to XX .svf file in the language of your choosing from the [SVF repo](https://cloud.mail.ru/public/2fYm/2bzdHD4X2/). 
+2. Download the Consumer to LTSC .svf file in the language of your choice (e.g [en_us]) from the [SVF repo](https://cloud.mail.ru/public/2fYm/2bzdHD4X2/)
 3. [Download](https://www.softpedia.com/get/System/Back-Up-and-Recovery/SVF-eXtractor.shtml) svfx.exe
 4. Extract the ISO from the RAR
-5. Make a new folder and put the extracted ISO, the .svf file and svfx.exe in it
-6. Run svfx.exe and the LTSC ISO will be created
-
+5. Make a new folder and put the extracted ISO, your EN to XX .svf file and svfx.exe in it
+6. Run svfx.exe inside that folder and an ISO of your desired language will be created
+7. Make a new folder and put the new ISO, the Consumer to LTSC .svf file and svfx.exe in it
+8. Run svfx.exe inside that folder and the LTSC ISO will be created
+9. Done
 
 Upgrade from Windows 10 Home to Pro (N) for Workstations:
 
@@ -44,13 +46,13 @@ Steps:
    For Windows N edition: 
    slmgr /ipk 9FNHH-K3HBT-3W4TD-6383H-6XYWF
 
-6. reboot
-7. run Windows Update
-8. reboot
-9. activate Windows normally
-10. done
+6. Reboot
+7. Run Windows Update
+8. Reboot
+9. Activate Windows normally, with a method of your choosing
+10. Done
 
-Additional stuff:
+Additional links:
 
 [MDL thread for Enterprise LTSC](https://forums.mydigitallife.net/threads/discussion-windows-10-enterprise-n-ltsc-2019.76325/)
 
