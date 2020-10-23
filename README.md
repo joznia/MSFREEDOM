@@ -11,6 +11,7 @@ This document is for educational and testing purposes only. I recommend you buy 
 Steps: 
 
 1. Go to [TechBench](https://tb.32767.ga/) and download whatever build of Windows 10 you desire
+
 1a. To download the latest version of Windows 10 from TechBench, simply click on Windows 10 > Windows 10 and scroll to the bottom of the page. The latest version (20H2 at the time of writing) should be near the bottom of the page
 2. Write the ISO to a disk using a tool like [Rufus](https://rufus.ie/) and boot into it
 3. Install Windows as normal
