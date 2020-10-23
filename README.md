@@ -1,8 +1,8 @@
-# MSFREEDOM
-Collection of guides to get Windows for free
-
 # Disclaimer
 This document is for educational and testing purposes only. I recommend you buy Windows and other Microsoft products genuinely and legally.
+
+# MSFREEDOM
+Collection of guides to get Windows for free
 
 Get a clean Enterprise LTSC ISO v316 (using SVF repo):
 
