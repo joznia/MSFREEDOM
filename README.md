@@ -41,6 +41,8 @@ Follow these steps ([source](https://forums.mydigitallife.net/threads/info-discu
 
 [Windows Server MDL thread](https://forums.mydigitallife.net/threads/the-windows-server-repository.49120/)
 
+[UUP Dump](https://uupdump.ml/)
+
 [Techbench dump](https://tb.32767.ga/) (download clean Windows ISOs)
 
 [KMS_VL_ALL MDL thread](https://forums.mydigitallife.net/threads/kms_vl_all-smart-activation-script.79535/)
