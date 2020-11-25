@@ -15,9 +15,10 @@ Steps:
 1. Go to [TechBench](https://tb.32767.ga/) and download whatever build of Windows 10 you desire
 2. Write the ISO to a disk using a tool like [Rufus](https://rufus.ie/) and boot into it
 3. Install Windows as normal
-4. Download [KMSpico](https://forums.mydigitallife.net/threads/kmspico-official-thread.65739/), a very popular activation tool for Windows
-5. Temporarily disable your AV and/or whitelist KMSpico (see its README for a list of files to whitelist); KMSpico and other activation tools are detected as false positives and do not contain any malicious code
-6. Run KMSELDI.exe and click the massive red button
+4. Download [MAS](https://github.com/massgravel/Microsoft-Activation-Scripts/releases/download/1.4/MAS_1.4_Password_1234.7z), an activation tool for Windows
+5. Extract the archive with a tool like [7-Zip](https://www.7-zip.org/a/7z1900-x64.msi)
+6. Navigate to `MAS_1.4\Seperate-Files-Version\Activators\HWID-KMS38_Activation`
+7. Run `HWID_Activation.cmd` as administrator
 
 ### Windows 10 Enterprise LTSC
 
